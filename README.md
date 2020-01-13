@@ -1,2 +1,3 @@
-# dotnetcore3jwt
-.NET Core 3 JWT Token Project
+# aspnet-core-3-jwt-authentication-api
+
+ASP.NET Core 3.1 - JWT Authentication API
